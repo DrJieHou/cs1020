@@ -1,0 +1,1 @@
+I found the first two tasks to be relatively easy. The third was a challenge as I still don't believe I got the correct result.

@@ -1,0 +1,1 @@
+The hardest challenge for me was figuring what to do if the first case of the inverse came before the first case of the motif as i used the .find function, this was easily fixed though with a simple variable check value and after that i didnt run into any particaularly big issues.

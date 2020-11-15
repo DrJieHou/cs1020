@@ -1,0 +1,1 @@
+﻿Everything went well for this lab. Writing the codes for the lab was the successful part because we were provided with the algorithm equations. However, I was experiencing math domain errors and was caught up in the for loop as I was making mistakes with my variables. For this reason, I went to Dr. Hou’s office hours and have resolved the issues.

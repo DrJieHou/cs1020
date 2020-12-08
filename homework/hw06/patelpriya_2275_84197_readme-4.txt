@@ -1,0 +1,1 @@
+﻿While working on Homework06, I faced some difficulty at first with getting the codes to work. It took a few days to get the coding together, but I was able to fully understand how to code and allow for the function to work after the guidance you provided us. Overall, it was challenging, but I was able to complete it.

@@ -1,0 +1,1 @@
+﻿Homework 6 was by far the most challenging homework assignment that we have had this semester. I struggled with coding the functions so that they would return the proper output. At the end however I was able to figure out the code after testing and debugging the code.
